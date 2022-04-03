@@ -1,0 +1,15 @@
+C:\Users\Flia Chavez S\source\repos\CapaNeg\obj\Debug\CapaNeg.csproj.AssemblyReference.cache
+C:\Users\Flia Chavez S\source\repos\CapaNeg\obj\Debug\CapaNeg.csproj.CoreCompileInputs.cache
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaNeg.dll.config
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaNeg.dll
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaNeg.pdb
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaDatos.dll
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\EntityFramework.dll
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaDatos.pdb
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\CapaDatos.dll.config
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\EntityFramework.xml
+C:\Users\Flia Chavez S\source\repos\CapaNeg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Flia Chavez S\source\repos\CapaNeg\obj\Debug\CapaNeg.csproj.CopyComplete
+C:\Users\Flia Chavez S\source\repos\CapaNeg\obj\Debug\CapaNeg.dll
+C:\Users\Flia Chavez S\source\repos\CapaNeg\obj\Debug\CapaNeg.pdb
